@@ -1,1 +1,1 @@
-betty user switch
+shell permissions
